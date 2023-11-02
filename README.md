@@ -5,10 +5,10 @@
 
 1. Create a .env file for the backend secrets and db
 ```bash
-DB_URL=the_database_url
+DB_HOST=the_database_url
 DB_USER=your_username
 DB_PASS=your_password
-DB=the_db_name
+DB_NAME=the_db_name
 ```
 
 2. Create a .env file in ```backend`` with a variable pointing to your backend
